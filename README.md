@@ -1,6 +1,6 @@
 # Vanloos
 A live search for public washrooms in Vancouver.
-See the [website](http://darshandsoni.com/vanloos/)
+See the [website](http://darshandsoni.com/vanloos/).
 
 ##Credits
 
